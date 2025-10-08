@@ -1,5 +1,5 @@
 
-# Data Science and Statistics Lab
+# 📊 Data Science and Statistics Lab
 
 A hands-on lab that covers fundamentals of data science, statistics, and machine learning using Python and Jupyter Notebooks. This repository contains practical exercises for data manipulation, exploratory data analysis, visualization, and common machine learning algorithms.
 
