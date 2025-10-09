@@ -14,7 +14,7 @@ A hands-on lab that covers fundamentals of data science, statistics, and machine
 - [Practicals (Lab list)](#practicals-lab-list)
 ---
 
-## Overview
+## 💡Overview
 This lab helps learners build practical skills in:
 - Data acquisition, cleaning, and manipulation
 - Exploratory data analysis (EDA) and visualization
@@ -25,13 +25,13 @@ Each practical is intended to be a short, self-contained notebook that demonstra
 
 ---
 
-## Technologies
+## 🛠️Technologies
 Primary libraries used:
-- pandas — data manipulation and analysis  
-- NumPy — numerical computing  
-- Matplotlib & Seaborn — data visualization  
-- scikit-learn — machine learning algorithms  
-- Jupyter Notebook / JupyterLab — interactive notebooks
+- 🐼pandas — data manipulation and analysis  
+- 🔢NumPy — numerical computing  
+- 📊Matplotlib & Seaborn — data visualization  
+- 🤖scikit-learn — machine learning algorithms  
+- 📘Jupyter Notebook / JupyterLab — interactive notebooks
 
 ---
 
@@ -48,7 +48,7 @@ Recommended minimal environment:
 - jupyterlab or notebook
 
 
-## Practicals (Lab list)
+## 🧩Practicals (Lab list)
 Each practical should ideally have a corresponding notebook named with a leading number (e.g., `01-data-acquisition.ipynb`). Below is the organized list with short descriptions:
 
 1. Data Acquisition using pandas  
@@ -88,6 +88,10 @@ Each practical should ideally have a corresponding notebook named with a leading
     - Ensemble learning, bagging, out-of-bag error, and feature importance.
 
 Tip: Link each numbered item to its notebook once notebooks are added (e.g., `[01 - Data Acquisition](notebooks/01-data-acquisition.ipynb)`).
+
+---
+🎯 Learning Outcome
+By completing this lab, we will gain the ability to handle and preprocess real-world datasets, perform statistical analysis to extract meaningful insights, and visualize data trends and patterns effectively. They will also learn to build and evaluate machine learning models while developing a strong understanding of core machine learning concepts and algorithms. Each notebook is self-contained, demonstrating concepts with datasets and hands-on exercises to reinforce learning.
 
 ---
 
