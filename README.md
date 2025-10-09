@@ -7,12 +7,6 @@ A hands-on lab that covers fundamentals of data science, statistics, and machine
 
 ---
 
-## Table of contents
-- [Overview](#overview)
-- [Technologies](#technologies)
-- [Prerequisites](#prerequisites)
-- [Practicals (Lab list)](#practicals-lab-list)
----
 
 ## 💡Overview
 This lab helps learners build practical skills in:
