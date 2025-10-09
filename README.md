@@ -90,7 +90,7 @@ Each practical should ideally have a corresponding notebook named with a leading
 Tip: Link each numbered item to its notebook once notebooks are added (e.g., `[01 - Data Acquisition](notebooks/01-data-acquisition.ipynb)`).
 
 ---
-🎯 Learning Outcome
+## 🎯Learning Outcome
 By completing this lab, we will gain the ability to handle and preprocess real-world datasets, perform statistical analysis to extract meaningful insights, and visualize data trends and patterns effectively. They will also learn to build and evaluate machine learning models while developing a strong understanding of core machine learning concepts and algorithms. Each notebook is self-contained, demonstrating concepts with datasets and hands-on exercises to reinforce learning.
 
 ---
